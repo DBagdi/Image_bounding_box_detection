@@ -1,0 +1,6 @@
+path: C:\Users\91749\Desktop\5-1\FlamAssignment_ML
+train: images\train
+val: images\train
+
+names:
+  0: child
